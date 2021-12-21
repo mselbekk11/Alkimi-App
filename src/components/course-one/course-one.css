@@ -1,0 +1,116 @@
+#course-one-home {
+    width: 100vw;
+    background: #0F1B35;
+}
+
+#course-one-home .container-boom {
+    width: 100%;
+    min-height: 600px;
+    max-width: 1300px;
+    padding: 0 100px;
+    /* display: grid;
+    grid-template-columns: 1fr; */
+    background: #0F1B35;
+    margin:auto;
+    text-align: center;
+    padding-top: 8rem;
+    position: relative;
+}
+
+#course-one-home .head {
+    width: 100%;
+    text-align: center;
+}
+
+#course-one-home .container-boom img.curve {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+#course-one-home h1 {
+    font-size: 1.8rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+#course-one-home .left {
+    padding: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#course-one-home .right {
+    padding: 40px;
+    text-align: center;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.white-background {
+    width: 100vw;
+    background-color: #fff;
+}
+
+.description {
+    background-color: #fff;
+    max-width: 800px;
+    margin: auto;
+    padding-top: 6rem;
+}
+
+.description img {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.description p {
+    margin-bottom: 2rem;
+}
+
+.description h2 {
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.description p {
+    font-size: 1.2rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.description p span {
+    color: #41C2D2;
+}
+
+.description img.dropdown {
+    margin-bottom: 4rem;
+}
+
+.white-background-two {
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.description-two {
+    background-color: rgb(255, 255, 255);
+    max-width: 1500px;
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.description-two h2 {
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+    text-align: center;
+}
